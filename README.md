@@ -6,7 +6,9 @@ The purpose of this analysis is well defined (3 pt)
 
 ## Results:
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+   - How many Vine reviews and non-Vine reviews were there?
+   - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+   - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ## Summary:
 
