@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview
-   - For this week we are charged with the responsibility to analyze a large data set from Amazon's Vine program.  My analyisis covered reviews from the video game category of Amazon.  Using big data tools such as PySpark, AWS RDS, and Postgres to query the data.  After our tools have been set up we then peform analysis to determine the level of bias between paid reviews and non-paid reviews for 5-star reviews.
+   - For this week we are charged with the responsibility to analyze a large data set from Amazon's Vine program.  My analysis covered reviews from the video game category of Amazon.  From here we are using big data tools such as Google Collab, PySpark, AWS RDS, and Postgres to query the data from Amazon.  After our tools have been set up, we then perform analysis using PySpark to determine the level of bias between paid reviews and non-paid reviews for 5-star reviews.
 
 
 ## Results:
